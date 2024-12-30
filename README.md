@@ -1,5 +1,5 @@
 ### hi!
-I like making things occasionally. I'm currently making [Spaceshipment](https://renpenguin.itch.io/spaceshipment), an orbit-physics-based game for the [Playdate handheld console](https://play.date/)
+I like making things occasionally. I recently finished [Spaceshipment](https://renpenguin.itch.io/spaceshipment), an orbit-physics-based game for the [Playdate handheld console](https://play.date/)
 
 You can find a comprehensive list of my projects [here](https://redpengu.in/)
 
